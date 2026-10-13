@@ -267,4 +267,4 @@ Hi, and welcome to the test ***Extension***.  If you clicked on the ***Extensio
 
  
 
-If you just scrolled down to this point then, congratulations, you have reached the end of the document.
+If you just scrolled down to this point then, congratulations, you have reached the end of the document
