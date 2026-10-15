@@ -1,6 +1,3 @@
-/docs/
 /.quarto/
 **/*.quarto_ipynb
 /site_libs/
-/Inject_CSS_Quarto_server.R
-/index.html
