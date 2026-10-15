@@ -19,6 +19,7 @@ language:
 project:
   render:
   - lessons/[0-9]*.qmd  # only render files whose names start with a number
+  - index.qmd
   type: website
   output-dir: docs
 
