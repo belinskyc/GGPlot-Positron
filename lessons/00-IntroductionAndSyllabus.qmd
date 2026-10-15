@@ -18,11 +18,7 @@ Graphing with GGPlot is a self-paced and asynchronous online class. The amount o
 
 ### Instructor
 
-**Charlie Belinsky**
-
-- belinsky\@msu.edu
-
-- 517-355-0126
+**Charlie Belinsky:** belinsky\@msu.edu
 
  
 
